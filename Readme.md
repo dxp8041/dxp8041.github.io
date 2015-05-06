@@ -165,7 +165,9 @@ Resources used:
 4. bootstrap examples http://getbootstrap.com/getting-started/ 
 
 
+The site is running on my machine:
 
+http://71.8.126.41:8080/
 
 
 
