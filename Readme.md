@@ -173,9 +173,6 @@ http://71.8.126.41:8080/
 
 Here are Some user_id to sign into the system. You can use any user_id to sign into the system and get the recommendations.
 
-wy6l_zUo7SN0qrvNRWgySw 
-WPOKvkacSKHx_bIG1alFiA
-ZWOj6LmzwGvMDh-A85EOtA
-HI-QmpsYxP5AJtRPanXKQw
+wy6l_zUo7SN0qrvNRWgySw            WPOKvkacSKHx_bIG1alFiA         ZWOj6LmzwGvMDh-A85EOtA         HI-QmpsYxP5AJtRPanXKQw
 
 
